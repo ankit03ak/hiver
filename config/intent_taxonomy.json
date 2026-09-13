@@ -1,0 +1,10 @@
+{
+  "device_upgrade_unlock": "Device compatibility, upgrades, trade-ins, financing, activation, unlock failures, or handset problems.",
+  "network_service": "No signal, slow or unavailable data, calls/texts/hotspot not working, coverage, or outages.",
+  "billing_payment": "Charges, fees, invoices, payment method, refunds, credits, or payment disputes.",
+  "account_security": "Account access, identity verification, fraud, unauthorized account activity, PIN, or privacy concerns.",
+  "plan_features_promotions": "Plan eligibility, included features such as Netflix, benefits, promotions, discounts, or service changes.",
+  "order_shipping": "Order status, pre-orders, shipment, delivery, missing device, returns, or store fulfilment.",
+  "support_follow_up": "Waiting for support, unresponsive DMs, dissatisfaction with prior handling, or a request to contact support again.",
+  "other": "A message that does not fit the categories above, is unclear, or is not a support request."
+}

@@ -1,0 +1,8 @@
+{
+  "n": 200,
+  "intent_accuracy": 0.155,
+  "intent_macro_f1": 0.0335,
+  "escalation_precision": 0.445,
+  "escalation_recall": 1.0,
+  "escalation_f1": 0.6159
+}
