@@ -30,6 +30,20 @@ python -m pytest -v
 
 ---
 
+## 📸 Visual Demonstration (Streamlit UI)
+
+Below are screenshots of the running Streamlit web application showcasing different customer intent classifications, risk escalation decisions, generated replies, and retrieved historical evidence:
+
+| Intent Scenario | Live Application Preview |
+| :--- | :--- |
+| **Account Security & Fraud (Escalated)** | ![Account Security Escalation](media/image-1.png) |
+| **Network Service Issue (Auto-Handled)** | ![Network Service Auto-Handle](media/image-2.png) |
+| **Billing & Payment Dispute (Escalated)** | ![Billing Payment Escalation](media/image-3.png) |
+| **Order & Shipping Status (Auto-Handled)** | ![Order Shipping Auto-Handle](media/image-4.png) |
+| **Plan Features & Promotions (Auto-Handled)** | ![Plan Features Auto-Handle](media/image-5.png) |
+
+---
+
 ## What the project does
 
 The application follows this flow:
